@@ -10,7 +10,7 @@ header {
 
 h1 {
     text-align: center;
-    color: red;
+    color: green;
 }
 
 h3 {
@@ -51,6 +51,15 @@ footer {
 #tdpointermode{
     width: 24%;
 	text-align: center
+}
+
+#tdresulttitle{
+    width: 80%
+}
+
+#tdldfileimg{
+    width= 20%;
+    align= left
 }
 
 #uploadImage{
@@ -99,4 +108,9 @@ footer {
     left: 495px;
     top: 177px;
     z-index: 0;
+}
+
+#Comments{
+    width: 622px;
+    align= center
 }
